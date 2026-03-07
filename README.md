@@ -2,7 +2,7 @@
 <h3 align="center">Backend • Cloud • DevOps • AI Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Backend+%7C+Cloud+%7C+DevOps+%7C+AI;Building+with+Python%2C+FastAPI+%26+Docker;Working+with+AWS%2C+CI%2FCD+%26+LLM+Projects;Focused+on+Real+Projects+and+Scalable+Systems" alt="Typing SVG" />
+  Building practical backend, cloud, DevOps and AI projects with modern tools
 </p>
 
 <p align="center">
@@ -15,25 +15,25 @@
 
 - 🎓 **BCA Student** focused on practical development
 - 💻 Interested in **Backend Development, Cloud, DevOps and AI Systems**
-- ⚙️ Building projects with **FastAPI, Docker, Jenkins, AWS and LLM workflows**
+- ⚙️ Building with **Python, FastAPI, Docker, Jenkins and AWS**
 - 📚 Learning through **real projects, APIs, deployment and automation**
 - 📫 **Contact:** anmolkorla111@gmail.com
 
 ---
 
-## 🔥 Featured Focus Areas
+## 🔥 Core Focus
 
-### 🧠 LLM + AI Development
-Working with **Ollama, Python and LLM-based workflows** to build practical AI-powered systems.
+### 🧠 AI / LLM Workflows
+Working with **Ollama, Python and LLM-based systems** to build practical AI-powered workflows.
 
 ### ⚡ Backend Development
-Building APIs with **FastAPI, REST API design, SQLAlchemy and PostgreSQL**.
+Building APIs using **FastAPI, REST APIs, SQLAlchemy and PostgreSQL**.
 
 ### ☁️ Cloud & AWS
-Exploring and using **AWS, DynamoDB, Lambda and API Gateway** in backend and deployment workflows.
+Using **AWS, DynamoDB, Lambda and API Gateway** in backend and cloud workflows.
 
 ### 🔄 DevOps & CI/CD
-Using **Docker, Jenkins and CI/CD pipelines** for automated build and deployment workflows.
+Working with **Docker, Jenkins and CI/CD pipelines** for build and deployment automation.
 
 ---
 
@@ -51,20 +51,7 @@ Using **Docker, Jenkins and CI/CD pipelines** for automated build and deployment
   <img src="https://img.shields.io/badge/AWS%20Lambda-Serverless-111827?style=for-the-badge" alt="AWS Lambda" />
   <img src="https://img.shields.io/badge/API%20Gateway-AWS-111827?style=for-the-badge" alt="API Gateway" />
   <img src="https://img.shields.io/badge/Postman-API_Testing-111827?style=for-the-badge" alt="Postman" />
-  <img src="https://img.shields.io/badge/Swagger-API_Docs-111827?style=for-the-badge" alt="Swagger UI" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anmolkorla111-tech&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmolkorla111-tech&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=anmolkorla111-tech&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/Swagger_UI-API_Docs-111827?style=for-the-badge" alt="Swagger UI" />
 </p>
 
 ---
